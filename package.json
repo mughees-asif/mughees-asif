@@ -1,0 +1,42 @@
+{
+  "name": "bywaleed.github.io",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bywaleed/bywaleed.github.io.git"
+  },
+  "author": "Waleed Islam <waleedi825@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "now": {
+    "alias": "bywaleed.local"
+  },
+  "scripts": {
+    "build:dev": "node-sass src/index.scss dist/index.css",
+    "build:watch": "yarn build && node-sass src/index.scss -wo dist",
+    "build": "node-sass src/index.scss dist/index.css --output-style compressed",
+    "start": "http-server",
+    "start:dev": "http-server -c-1",
+    "deploy": "now && now alias"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "http-server": "^0.11.1",
+    "node-sass": "^4.8.3",
+    "now": "^11.1.7"
+  },
+  "bugs": {
+    "url": "https://github.com/bywaleed/bywaleed.github.io/issues"
+  },
+  "homepage": "https://github.com/bywaleed/bywaleed.github.io#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1",
+    "http-server": "^0.11.1",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.12.0",
+    "minimist": "^1.2.0",
+    "now": "^11.5.2"
+  }
+}
