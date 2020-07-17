@@ -1,2 +1,2 @@
-![Profile Banner](mughees-asif/media/banner.jpg)
+![Profile Banner](mughees-asif/mughees-asif/blob/master/media/banner.jpg)
 
