@@ -1,2 +1,2 @@
-Welcome!
+![Profile Banner](/media/banner.jpg)
 
