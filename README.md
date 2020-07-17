@@ -1,2 +1,2 @@
-![Profile Banner](/media/banner.jpg)
+![Profile Banner](mughees-asif/media/banner.jpg)
 
