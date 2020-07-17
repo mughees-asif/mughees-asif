@@ -1,2 +1,2 @@
-[Profile Banner](mughees-asif/mughees-asif/blob/master/media/banner.jpg)
+![Profile Banner](https://pbs.twimg.com/media/CWhxr4WWcAAa42s.jpg)
 
