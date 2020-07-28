@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/mugheesasif/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical" />
 </a>
 
 ------------------------------------------------------------
