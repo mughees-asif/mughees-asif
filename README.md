@@ -2,10 +2,10 @@
 
 ------------------------------------------------------------
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
+<a href="https://github.com/mughees-asif/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
 </a>
 
 <a href="https://github.com/mughees-asif/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin" />
 </a>
