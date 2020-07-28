@@ -1,6 +1,12 @@
 <a href="https://www.linkedin.com/in/mugheesasif/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical" />
+</p>
 </a>
+
+------------------------------------------------------
+
+# Featured Repositories
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
