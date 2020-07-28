@@ -1,21 +1,16 @@
 <a href="https://www.linkedin.com/in/mugheesasif/">
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical&count_private=true&hide=stars,issues" />
 </p>
 </a>
 
-------------------------------------------------------
-
 <a href="https://www.linkedin.com/in/mugheesasif/">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughees-asif&layout=compact&hide=python,html&theme=dracula" />
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughees-asif&layout=compact&hide=jupyter,html,css&theme=dracula" />
 </p>
 </a>
 
 ------------------------------------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 # Featured Repositories
 
