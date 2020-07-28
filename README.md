@@ -10,6 +10,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
 </a>
 
+------------------------------------------------------------
+
 <a href="https://github.com/mughees-asif/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=leetcode-solutions&theme=tokyonight" />
 </a>
@@ -17,6 +19,8 @@
 <a href="https://github.com/mughees-asif/">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=hackerrank-solved-challenges&theme=dracula" />
 </a>
+
+------------------------------------------------------------
 
 <a href="https://github.com/mughees-asif/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
