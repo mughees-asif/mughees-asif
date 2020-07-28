@@ -14,8 +14,7 @@
 
 # Bio
 
-> “His descent was like nightfall.”
-> 				   ― Homer, The Iliad
+> "I can’t go to a restaurant and order food because I keep looking at the fonts on the menu" - Donald Knuth (2002)
 
 Hi there! Welcome to my public GitHub profile. My name is **Mughees Asif** and I am an Aerospace Engineering undergraduate [@Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, and I am currently looking to enter the Software Development industry upon my graduation (*June, 2021*), with an emphasis on working in the FinTech, Blockchain, Cryptocurrency, and Mobile Devleopment (**Android**) sectors. My proficiency in languages such as Java *SE 11*, Kotlin, JavaScript and Python, can be seen from the various projects below.  
 
