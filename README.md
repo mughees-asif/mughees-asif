@@ -1,4 +1,6 @@
-[![Mughees's github stats](https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical)](https://www.linkedin.com/in/mugheesasif/)
+<a href="https://www.linkedin.com/in/mugheesasif/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical" />
+</a>
 
 ------------------------------------------------------------
 
@@ -31,5 +33,5 @@
 </a>
 
 <a href="https://github.com/mughees-asif/mailing-list-astric">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=mailing-list-astric&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=mailing-list-astric&theme=synthwave" />
 </a>
