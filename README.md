@@ -1,8 +1,6 @@
 <a href="https://www.linkedin.com/in/mugheesasif/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical" />
 </a>
-
-------------------------------------------------------------
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
