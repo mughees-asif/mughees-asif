@@ -33,4 +33,3 @@
 <a href="https://github.com/mughees-asif/mailing-list-astric">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=mailing-list-astric&theme=synthwave" />
 </a>
-------------------------------------------------------------
