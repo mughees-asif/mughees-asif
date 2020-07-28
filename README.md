@@ -6,6 +6,17 @@
 
 ------------------------------------------------------
 
+<a href="https://www.linkedin.com/in/mugheesasif/">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughees-asif&layout=compact&hide=python,html&theme=dracula" />
+</p>
+</a>
+
+------------------------------------------------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Featured Repositories
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
