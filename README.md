@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/mugheesasif/">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical&count_private=true&hide=stars,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical&count_private=true&hide=stars,issues" />
 </p>
 </a>
 
