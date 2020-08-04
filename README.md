@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/mugheesasif/">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughees-asif&layout=compact&hide=jupyter%20notebook&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughees-asif&layout=compact&hide=jupyter%20notebook,javascript&theme=dracula" />
 </p>
 </a>
 
