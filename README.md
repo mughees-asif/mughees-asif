@@ -4,11 +4,10 @@
 </p>
 </a>
 
-<a href="https://www.linkedin.com/in/mugheesasif/">
 <p align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=plastic)" />
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=plastic" />
 </p>
-</a>
+
 
 ------------------------------------------------------
 
