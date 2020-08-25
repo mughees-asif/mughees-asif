@@ -2,6 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=plastic" />
 </p>
 
+<a href="https://www.linkedin.com/in/mugheesasif/">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical&count_private=true&hide=stars,issues" />
+</p>
+</a>
+
+------------------------------------------------------
+
 **Languages I have used**
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
@@ -10,19 +18,12 @@
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=React&logoColor=61DAFB)
-
-<a href="https://www.linkedin.com/in/mugheesasif/">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical&count_private=true&hide=stars,issues" />
-</p>
-</a>
 
 ------------------------------------------------------
 
