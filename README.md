@@ -10,6 +10,8 @@
 
 ------------------------------------------------------
 
+<p align="center">
+
 **Languages used:**
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
@@ -27,6 +29,8 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby&logoColor=61DAFB)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=61DAFB)
+
+</p>
 
 ------------------------------------------------------
 
