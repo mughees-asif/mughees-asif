@@ -10,14 +10,14 @@
 
 ------------------------------------------------------
 
-**Languages I have used**
+**Languages used:**
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-**Some of the technologies I have worked with**
+**Familiar with:**
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java&logoColor=007396)
