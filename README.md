@@ -20,8 +20,8 @@
 **Some of the technologies I have worked with**
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![JavaFX](https://img.shields.io/badge/-Javafx-000000?style=flat&logo=Javafx-software&logoColor=white&logoColor=0052CC)
-![Firebase](https://img.shields.io/badge/-firebase-000000?style=flat&logo=firebase-software&logoColor=white&logoColor=0052CC)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java-software&logoColor=white&logoColor=0052CC)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=google-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
