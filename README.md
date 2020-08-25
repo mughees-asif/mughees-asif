@@ -1,3 +1,5 @@
+# Quick stats
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=plastic" />
 </p>
