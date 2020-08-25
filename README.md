@@ -23,7 +23,8 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=React&logoColor=61DAFB)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=61DAFB)
 
 ------------------------------------------------------
 
