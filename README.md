@@ -12,19 +12,22 @@
 <details>
 
 <summary>Languages spoken</summary>  
-  
+
+---
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+---
 
 </details> 
 
 <details>
 
-<summary>###Familiar with</summary>  
+<summary>Familiar with</summary>  
 
+---
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
@@ -40,6 +43,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 ---
 
+</details> 
+
+<details>
+
 - 🌏 Lives in **London, UK** 
 - 👨‍💻 Software Engineer Intern @ **[Arm](https://www.arm.com/)**
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
@@ -50,6 +57,10 @@
 - ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Circuit Training)
 
 > "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
+
+</details>
+
+<details>
 
 # Featured Repositories
 
