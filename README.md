@@ -11,7 +11,7 @@
 
 <details>
 
-<summary>Languages spoken</summary>  
+<summary>Languages</summary>  
 
 ---
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -25,7 +25,7 @@
 
 <details>
 
-<summary>Familiar with</summary>  
+<summary>Stacks</summary>  
 
 ---
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -47,6 +47,9 @@
 
 <details>
 
+<summary>Biography</summary>  
+
+---
 - 🌏 Lives in **London, UK** 
 - 👨‍💻 Software Engineer Intern @ **[Arm](https://www.arm.com/)**
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
@@ -57,6 +60,8 @@
 - ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Circuit Training)
 
 > "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
+
+---
 
 </details>
 
