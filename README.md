@@ -67,7 +67,7 @@
 
 <details>
 
-# Featured Repositories
+<summary>Featured Repositories</summary>  
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
