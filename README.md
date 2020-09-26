@@ -36,7 +36,7 @@
 
 > "An algorithm must be seen to be believed." - Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
 
-Hi there! Welcome to my GitHub profile. My name is **[Mughees Asif](https://drive.google.com/file/d/15kyKuqy-koobFpkTtnS9hDa0SP01kQOw/)** and I am an *Aerospace Engineering* undergraduate @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, and I am currently looking to enter the Software Development industry upon my graduation, with an emphasis on working in the Fintech, Blockchain, Cryptocurrency, and Android Development sectors. My proficiency in languages such as Java *SE 11*, Kotlin, JavaScript and Python, can be seen from the various projects below.  
+Hi there! Welcome to my GitHub profile. My name is **[Mughees Asif](https://drive.google.com/file/d/15kyKuqy-koobFpkTtnS9hDa0SP01kQOw/)** and I am an *Aerospace Engineering* undergraduate @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, with a focus on entering the Software Development industry (Deep Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java *SE 11*, Kotlin, JavaScript and Python, can be seen from the various codebases below.  
 
 To get in touch for any projects, please contact me through my [LinkedIn](https://www.linkedin.com/in/mugheesasif/), or alternatively, you can [email](mailto:mughees460@gmail.com) me.
 
