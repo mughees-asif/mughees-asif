@@ -64,10 +64,6 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=google-kickstart&theme=cobalt" />
 </a>
 
-<a href="https://github.com/mughees-asif/machinelearning-projects">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
-</a>
-
 <a href="https://github.com/mughees-asif/astric">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
 </a>
@@ -76,3 +72,6 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=PaddleShiftAlgorithm&theme=onedark" />
 </a>
 
+<a href="https://github.com/mughees-asif/machinelearning-projects">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
+</a>
