@@ -79,3 +79,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 <a href="https://github.com/mughees-asif/mailing-list-astric">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=mailing-list-astric&theme=synthwave" />
 </a>
+
+<a href="https://github.com/mughees-asif/mailing-list-astric">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=mailing-list-astric&theme=synthwave" />
+</a>
