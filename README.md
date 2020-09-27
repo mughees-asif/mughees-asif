@@ -49,7 +49,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/android-kotlin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/mughees-asif/leetcode-solutions">
@@ -57,7 +57,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/hackerrank-solved-challenges">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=hackerrank-solved-challenges&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=hackerrank-solved-challenges&theme=dracula" />
 </a>
 
 <a href="https://github.com/mughees-asif/google-kickstart">
@@ -65,7 +65,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/machinelearning-projects">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
 </a>
 
 <a href="https://github.com/mughees-asif/astric">
@@ -73,6 +73,6 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/PaddleShiftAlgorithm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=PaddleShiftAlgorithm&theme=onedark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=PaddleShiftAlgorithm&theme=onedark" />
 </a>
 
