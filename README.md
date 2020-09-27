@@ -77,7 +77,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/google-kickstart">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=mailing-list-astric&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=google-kickstart&theme=cobalt" />
 </a>
 
 
