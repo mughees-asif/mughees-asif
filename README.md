@@ -45,7 +45,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 # Featured Repositories
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
 </a>
 
 <a href="https://github.com/mughees-asif/android-kotlin">
@@ -53,7 +53,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/leetcode-solutions">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=leetcode-solutions&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=leetcode-solutions&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/mughees-asif/hackerrank-solved-challenges">
@@ -61,7 +61,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/google-kickstart">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=google-kickstart&theme=cobalt" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=google-kickstart&theme=cobalt" />
 </a>
 
 <a href="https://github.com/mughees-asif/machinelearning-projects">
@@ -69,7 +69,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/astric">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
 </a>
 
 <a href="https://github.com/mughees-asif/PaddleShiftAlgorithm">
