@@ -21,14 +21,14 @@
 
 **Familiar with:**
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java&logoColor=007396)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google&logoColor=007396)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=61DAFB)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon)
 
 ------------------------------------------------------
