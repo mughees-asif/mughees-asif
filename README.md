@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby&logoColor=61DAFB)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=AWS&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon&logoColor=FFFFFF)
 
 ------------------------------------------------------
 
