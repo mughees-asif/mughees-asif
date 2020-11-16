@@ -2,8 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=blue&style=liquid" />
 </p>
 
-<h1 align="center">⚡️ Hi, I'm Mughees Asif ⚡️</h1>
-<h4 align="center"><a href="https://mughees.bio.link/">https://mughees.bio.link/</a></h4>
+<h4 align="center"><a href="https://mughees.bio.link/">Relevant Links</a></h4>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=tokyonight&ring=15f4ee&fire=15f4ee&" alt="mughees-asif" />
