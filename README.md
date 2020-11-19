@@ -63,8 +63,8 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=hackerrank-solved-challenges&theme=dracula" />
 </a>
 
-<a href="https://github.com/mughees-asif/google-kickstart">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=google-kickstart&theme=cobalt" />
+<a href="https://github.com/mughees-asif/java-algorithms-datastructures">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=java-algorithms-datastructures&theme=cobalt" />
 </a>
 
 <a href="https://github.com/mughees-asif/astric">
