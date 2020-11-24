@@ -24,7 +24,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
