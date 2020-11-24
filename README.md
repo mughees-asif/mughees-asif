@@ -27,7 +27,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon)
