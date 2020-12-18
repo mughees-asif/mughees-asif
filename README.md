@@ -71,7 +71,7 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
 </a>
 
-<a href="https://github.com/mughees-asif/PaddleShiftAlgorithm">
+<a href="https://github.com/mughees-asif/dip">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
 </a>
 
