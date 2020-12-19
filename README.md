@@ -11,7 +11,6 @@
 </a>
 
 ------------------------------------------------------
-
 **Languages used:**
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
@@ -32,7 +31,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon)
 
 ------------------------------------------------------
-
 # Bio
 
 > "An algorithm must be seen to be believed." - Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
@@ -44,7 +42,6 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 > “In algorithms, as in life, persistence usually pays off.” ― Steven S. Skiena (The Algorithm Design Manual)
 
 ------------------------------------------------------
-
 # Featured Repositories
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
