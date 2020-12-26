@@ -37,7 +37,7 @@
 
 Hello & welcome to my GitHub profile! My name is **[Mughees Asif](https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/)** and I am an *Aerospace Engineering* undergraduate @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java, Kotlin, JavaScript and Python, can be seen from the various codebases below.
 
-My thesis project involves using Proximal Policy Optimisation (PPO) algorithm to train an agent to balance a double inverted pendulum (DIP). The initial modelling of the system can be found [here](https://github.com/mughees-asif/dip#double-inverted-pendulum-dip-modelling). The project is due for completion in Apr. 2021.
+My thesis involves using Proximal Policy Optimisation (PPO) algorithm to train an agent to balance a double inverted pendulum (DIP). The initial modelling of the system can be found [here](https://github.com/mughees-asif/dip#double-inverted-pendulum-dip-modelling). The project is due for completion by Apr. 2021.
 
 To get in touch for any projects, please contact me through my [LinkedIn](https://www.linkedin.com/in/mugheesasif/), or alternatively, you can [email](mailto:mughees460@gmail.com) me.
 
