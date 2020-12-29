@@ -1,14 +1,8 @@
 # Status
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=liquid" />
 </p>
-
-<a href="https://www.linkedin.com/in/mugheesasif/">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mughees-asif&show_icons=true&theme=radical&count_private=true&hide=stars,issues" />
-</p>
-</a>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&" alt="mughees-asif" />
