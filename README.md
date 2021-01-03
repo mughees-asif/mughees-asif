@@ -44,6 +44,10 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 ------------------------------------------------------
 # Featured Repositories
 
+<a href="https://github.com/mughees-asif/dip">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
+</a>
+
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
 </a>
@@ -66,10 +70,6 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 
 <a href="https://github.com/mughees-asif/astric">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
-</a>
-
-<a href="https://github.com/mughees-asif/dip">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
 </a>
 
 <a href="https://github.com/mughees-asif/machinelearning-projects">
