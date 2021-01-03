@@ -49,11 +49,11 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
 </a>
 
 <a href="https://github.com/mughees-asif/android-kotlin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/mughees-asif/leetcode-solutions">
@@ -65,11 +65,11 @@ To get in touch for any projects, please contact me through my [LinkedIn](https:
 </a>
 
 <a href="https://github.com/mughees-asif/java-algorithms-datastructures">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=java-algorithms-datastructures&theme=cobalt" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=java-algorithms-datastructures&theme=cobalt" />
 </a>
 
 <a href="https://github.com/mughees-asif/astric">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
 </a>
 
 <a href="https://github.com/mughees-asif/machinelearning-projects">
