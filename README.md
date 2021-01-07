@@ -1,7 +1,7 @@
 # Status
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=liquid" />
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
 <p align="center">
