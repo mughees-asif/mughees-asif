@@ -37,7 +37,7 @@ Welcome to my GitHub! My name is **[Mughees Asif](https://drive.google.com/file/
 
 My thesis involves using the **[Proximal Policy Optimisation (PPO) algorithm](https://arxiv.org/pdf/1707.06347.pdf)** to train an agent to balance a double inverted pendulum (DIP); due for completion by Apr. 2021. The initial modelling of the system can be found [here](https://github.com/mughees-asif/dip#double-inverted-pendulum-dip-modelling).
 
-In the long term, I am interested in the application of graph neural networks (GNNs) for relational reasoning in the criminal justice system, where the modern applications of deep transfer learning by harnessing the possibility of using latent relational graphs, will enable my endeavour to encourage the UK justice system to adopt algorithmic analysis to gauge recidivism risks.
+In the long term, I am interested in the application of graph neural networks (GNNs) for relational reasoning in the criminal justice system, where the modern applications of deep transfer learning, will enable my endeavour to encourage the UK justice system to adopt algorithmic analysis to gauge recidivism risks.
 
 To get in touch for any projects, please contact me through my [LinkedIn](https://www.linkedin.com/in/mugheesasif/), or alternatively, you can [email](mailto:mughees460@gmail.com) me.
 
