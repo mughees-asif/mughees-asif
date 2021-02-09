@@ -33,7 +33,7 @@
 
 > "An algorithm must be seen to be believed." - Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
 
-Welcome to my GitHub! My name is **[Mughees Asif](https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/)** and I am an *Aerospace Engineering* undergraduate @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java, Kotlin, JavaScript and Python, can be seen from the various codebases below.
+Welcome to my GitHub! My name is **[Mughees Asif](https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/)** and I am undergraduate student reading *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java, Kotlin, JavaScript and Python, can be seen from the various codebases below.
 
 My thesis involves using the **[Proximal Policy Optimisation (PPO) algorithm](https://arxiv.org/pdf/1707.06347.pdf)** to train an agent to balance an inverted double pendulum; due for completion by Apr. 2021. The initial modelling of the system can be found [here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb).
 
