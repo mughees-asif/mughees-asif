@@ -31,7 +31,7 @@
 ------------------------------------------------------
 # Bio
 
-> "An algorithm must be seen to be believed." - Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
+> "An algorithm must be seen to be believed." ― Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
 
 My name is **[Mughees Asif](https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/)** and I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java, Kotlin, JavaScript and Python, can be seen from the various codebases below.
 
