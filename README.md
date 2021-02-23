@@ -18,7 +18,7 @@
 
 **Familiar with:**
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
