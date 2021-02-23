@@ -18,15 +18,15 @@
 
 **Familiar with:**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=PyTorch)
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+![JavaFX](https://img.shields.io/badge/-JavaFX-FFFFFF?style=flat&logo=Java)
+![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=Google)
+![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=React)
+![Vue](https://img.shields.io/badge/-Vue.js-FFFFFF?style=flat&logo=vue.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-FFFFFF?style=flat&logo=Gatsby)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FFFFFF?style=flat&logo=PyTorch)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&logo=MySQL)
 
 ------------------------------------------------------
