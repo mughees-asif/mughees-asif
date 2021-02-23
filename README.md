@@ -11,7 +11,7 @@
 ------------------------------------------------------
 **Languages used:**
 
-![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
