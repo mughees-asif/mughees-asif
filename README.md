@@ -18,8 +18,8 @@
 
 **Familiar with:**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![JavaFX](https://img.shields.io/badge/-JavaFX-FFFFFF?style=flat&logo=Java)
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=Google)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=React)
