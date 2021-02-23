@@ -27,7 +27,7 @@
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FFFFFF?style=flat&logo=PyTorch)
-![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&logo=MySQL)
 
 ------------------------------------------------------
 # Bio
