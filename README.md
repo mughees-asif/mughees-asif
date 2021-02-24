@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&logo=MySQL)
 ---
 
-I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java, Kotlin, JavaScript and Python, can be seen from the various codebases below.
+I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in working with various tech. stacks can be seen from the various codebases below.
 
 - 🌏 I live in **London, UK**
 - 🔭 I’m currently working on my **[final-year project](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
