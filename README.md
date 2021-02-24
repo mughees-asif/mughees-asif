@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
 
 
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
