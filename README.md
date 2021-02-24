@@ -36,7 +36,6 @@ I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, Uni
 - ⚡ Fun fact: part-time personal trainer 
 
 > "An algorithm must be seen to be believed." ― Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
----
 
 # Featured Repositories
 
