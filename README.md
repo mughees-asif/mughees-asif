@@ -10,12 +10,12 @@
 </p>
 
 ---
-<p align="center">
+
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python
-</p>
+
 
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java)
@@ -34,9 +34,9 @@ I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, Uni
 - 🌏 I live in London, UK
 - 🔭 I’m currently working on my [final-year project](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)
 - 🌱 I’m currently learning SQL
-- 📫 How to reach me: [Email](mailto:mughees460@gmail.com)
+- 📫 How to reach me: [email](mailto:mughees460@gmail.com)
 - 🎧 Listening to: deep house
-- ⚡ Fun fact: I am a part-time personal trainer 
+- ⚡ Fun fact: part-time personal trainer 
 
 > "An algorithm must be seen to be believed." ― Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
 ---
