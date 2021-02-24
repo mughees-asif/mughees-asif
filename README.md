@@ -16,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
 
-
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=Google)
