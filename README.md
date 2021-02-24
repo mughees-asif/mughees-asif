@@ -1,4 +1,5 @@
-# Status
+<h1 align="center">⚡️ Hi, I'm Mughees Asif ⚡️</h1>
+<h3 align="center"><a href="https://www.linkedin.com/in/mugheesasif/">LinkedIn</a> &bull; <a href="https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/edit">CV</a> &bull; <a href="https://bymughees.com">Portfolio</a> &bull; <a href="mailto:mughees460@gmail.com">Email</a></h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
@@ -7,9 +8,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&" alt="mughees-asif" />
 </p>
+---
 
-------------------------------------------------------
-**Languages used:**
+**Languages spoken:**
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin)
@@ -28,21 +29,20 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FFFFFF?style=flat&logo=PyTorch)
 ![MySQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&logo=MySQL)
+---
 
-------------------------------------------------------
-# Bio
+I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java, Kotlin, JavaScript and Python, can be seen from the various codebases below.
+
+- 🌏 I live in London, UK
+- 🔭 I’m currently working on my [final-year project](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me: [Email](mailto:mughees460@gmail.com)
+- 🎧 Listening to: deep house
+- ⚡ Fun fact: I am a part-time personal trainer 
 
 > "An algorithm must be seen to be believed." ― Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
+---
 
-My name is **[Mughees Asif](https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/)** and I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies, with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. My proficiency in languages such as Java, Kotlin, JavaScript and Python, can be seen from the various codebases below.
-
-My undergraduate thesis involves using the **[Proximal Policy Optimisation (PPO) algorithm](https://arxiv.org/pdf/1707.06347.pdf)** to train an agent to balance an inverted double pendulum.  More information regarding the modelling of the system can be found [here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb).
-
-To get in touch for any projects, please contact me through my [LinkedIn](https://www.linkedin.com/in/mugheesasif/), or alternatively, you can [email](mailto:mughees460@gmail.com) me.
-
-> “In algorithms, as in life, persistence usually pays off.” ― Steven S. Skiena (The Algorithm Design Manual)
-
-------------------------------------------------------
 # Featured Repositories
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
