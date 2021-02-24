@@ -9,8 +9,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&" alt="mughees-asif" />
 </p>
 
----
-
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
