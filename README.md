@@ -9,13 +9,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&" alt="mughees-asif" />
 </p>
 
-# Languages spoken
+## Languages spoken
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
 
-# Tech. stacks used
+## Tech. stacks used
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
