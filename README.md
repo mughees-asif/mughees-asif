@@ -30,9 +30,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 ---
 
-I am an undergraduate student reading *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/). I have self-taught myself a plethora of different technologies with a focus on entering the software development industry (Deep Learning, Reinforcement Learning, FinTech, Cloud, Android Developement), upon my graduation. 
-
-- 🌏 I live in **London, UK**
+- 🌏 I live in **London, UK** reading undergraduate *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
 - 🔭 I’m currently working on my **[final-year project](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
 - 🌱 I’m currently learning **SQL**
 - 📫 How to reach me: **[email](mailto:mughees460@gmail.com)**
