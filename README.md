@@ -30,11 +30,12 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 ---
 
-- 🌏 I live in **London, UK** reading undergraduate *Aerospace Engineering* @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
-- 🔭 I’m currently working on my **[final-year project](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
-- 🌱 I’m currently learning **SQL**
-- 📫 How to reach me: **[email](mailto:mughees460@gmail.com)**
-- 🎧 Listening to: **deep house**
+- 🌏 Live in **London, UK** 
+- 👓 Reading undergraduate **Aerospace Engineering** @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
+- 🔭 Working on my **[final-year thesis](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
+- 🌱 Currently learning **SQL**
+- 📫 Reach me by **[email](mailto:mughees460@gmail.com)**
+- 🎧 Listening to **deep house**
 - ⚡ Fun fact: **qualified personal trainer**
 
 > "An algorithm must be seen to be believed." ― Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
