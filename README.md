@@ -38,7 +38,7 @@
 - 🎧 Listening to **deep house**
 - ⚡ Fun fact: **qualified personal trainer**
 
-> "An algorithm must be seen to be believed." ― Donald Knuth (Vol. I, Fundamental Algorithms, Section 1.1 (1968))
+> “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing (1912-1954)
 
 # Featured Repositories
 
