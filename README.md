@@ -38,7 +38,7 @@
 - 🎧 Listening to **deep house**
 - ⚡ Fun fact: **qualified personal trainer**
 
-> “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing (1912-1954)
+> "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
 
 # Featured Repositories
 
