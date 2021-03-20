@@ -33,7 +33,7 @@
 
 - 🌏 Live in **London, UK** 
 - 👓 Reading undergraduate **Aerospace Engineering** @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
-- 🔭 Working on my **[final-year thesis](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
+- 🔭 Working on my **[third-year thesis](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
 - 🌱 Currently learning **SQL** & **kdb+/q**
 - 🎧 Listening to **[Nate Dogg, Warren G - Nobody Does It Better](https://open.spotify.com/album/3TfK3onfop0xSREaFVvW7H)**
 - ⚡ Fun fact: **qualified personal trainer**
