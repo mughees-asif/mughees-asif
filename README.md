@@ -36,7 +36,7 @@
 - 🔭 Working on my **[third-year thesis](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
 - 🌱 Currently learning **SQL** & **kdb+/q**
 - 🎧 Listening to **[Nate Dogg, Warren G - Nobody Does It Better](https://open.spotify.com/album/3TfK3onfop0xSREaFVvW7H)**
-- ⚡ Fun fact: **qualified personal trainer**
+- ⚡ Fun fact: **Qualified Personal Trainer**
 
 > "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
 
