@@ -59,7 +59,7 @@
 </a>
 
 <a href="https://github.com/mughees-asif/matlab-qmul">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=matlab-qmul&theme=cobalt" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=matlab-qmul&theme=cobalt" />
 </a>
 
 <a href="https://github.com/mughees-asif/astric">
