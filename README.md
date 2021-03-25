@@ -66,9 +66,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
 </a>
 <a href="https://github.com/mughees-asif/dip">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
 </a>
 
 <a href="https://github.com/mughees-asif/machinelearning-projects">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
 </a>
