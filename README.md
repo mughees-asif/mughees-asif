@@ -43,32 +43,32 @@
 # Featured Repositories
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
 </a>
 
 <a href="https://github.com/mughees-asif/android-kotlin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/mughees-asif/leetcode-solutions">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=leetcode-solutions&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=leetcode-solutions&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/mughees-asif/hackerrank-solved-challenges">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=hackerrank-solved-challenges&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=hackerrank-solved-challenges&theme=dracula" />
 </a>
 
 <a href="https://github.com/mughees-asif/matlab-qmul">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=matlab-qmul&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=matlab-qmul&theme=cobalt" />
 </a>
 
 <a href="https://github.com/mughees-asif/astric">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
 </a>
 <a href="https://github.com/mughees-asif/dip">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
 </a>
 
 <a href="https://github.com/mughees-asif/machinelearning-projects">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
 </a>
