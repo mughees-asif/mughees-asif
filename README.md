@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://github.com/mughees-asif/astric">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=astric&theme=merko" />
 </a>
 <a href="https://github.com/mughees-asif/dip">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
