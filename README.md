@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.png" />
+  <img width=200 src="/banner.png" />
 </p>
 
 <h1 align="center">⚡️ Hi, I'm Mughees Asif ⚡️</h1>
