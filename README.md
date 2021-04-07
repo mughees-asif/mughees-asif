@@ -36,7 +36,7 @@
 ---
 
 - 🌏 Live in **London, UK** 
-- 👓 Final-year undergraduate **Aerospace Engineering** @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
+- 👓 Final-year Undergraduate **Aerospace Engineering** @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
 - 🔭 Working on my **[third-year thesis](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
 - 🌱 Currently learning **SQL** & **kdb+/q**
 - 📖 Currently reading **[Divine Comedy - Dante Alighieri](https://en.wikipedia.org/wiki/Divine_Comedy)**
