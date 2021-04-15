@@ -39,7 +39,7 @@
 - 🛠 Final-year Undergraduate **Aerospace Engineering** @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
 - 🔭 Working on my **[third-year thesis](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**
 - 🌱 Currently learning **SQL** & **kdb+/q**
-- 📖 Currently reading **[Divine Comedy - Dante Alighieri](https://en.wikipedia.org/wiki/Divine_Comedy)**
+- 📖 Currently reading **[The Divine Comedy - Dante Alighieri](https://en.wikipedia.org/wiki/Divine_Comedy)**
 - 🎧 Listening to **[Nate Dogg, Warren G - Nobody Does It Better](https://open.spotify.com/album/3TfK3onfop0xSREaFVvW7H)**
 - 👓 Currently watching **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Qualified Personal Trainer**
