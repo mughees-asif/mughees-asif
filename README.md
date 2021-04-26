@@ -1,3 +1,11 @@
+<p align="center">
+  <img align="center" src="./drl.png" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=liquid" />
+</p>
+
 <h1 align="center">⚡️ Hi, I'm Mughees Asif ⚡️</h1>
 <h4 align="center"><a href="https://www.linkedin.com/in/mugheesasif/">LinkedIn</a> &bull; <a href="https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/edit">CV</a> &bull; <a href="https://bymughees.com">Portfolio</a> &bull; <a href="mailto:mughees460@gmail.com">Email</a></h4>
 
@@ -33,8 +41,8 @@
 
 - 🌏 Live in **London, UK** 
 - 🛠 Final-year Undergraduate **Aerospace Engineering** @ [Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/) 
-- 🔭 Working on my third-year thesis: **[code](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)** ~ **[written evaluation](https://drive.google.com/file/d/1xoEyRD-DPWYklsU9Eh5NyL1AX8gQzmIi)**
-- 🌱 Currently learning **SQL**
+- 🔭 Working on my third-year thesis: **[code](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)** **~** **[written evaluation](https://drive.google.com/file/d/1xoEyRD-DPWYklsU9Eh5NyL1AX8gQzmIi)**
+- 🌱 Currently learning **SQL** + **geometric deep learning**
 - 📖 Currently reading **[The Divine Comedy - Dante Alighieri](https://en.wikipedia.org/wiki/Divine_Comedy)**
 - 🎧 Listening to **[Nate Dogg, Warren G - Nobody Does It Better](https://open.spotify.com/album/3TfK3onfop0xSREaFVvW7H)**
 - 👓 Currently watching **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
