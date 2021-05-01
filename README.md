@@ -10,10 +10,6 @@
 <h4 align="center"><a href="https://www.linkedin.com/in/mugheesasif/">LinkedIn</a> &bull; <a href="https://drive.google.com/file/d/1P46H2csFZ500mgV8oTFFYCyAdgwKQ0JZ/edit">CV</a> &bull; <a href="https://bymughees.com">Portfolio</a> &bull; <a href="mailto:mughees460@gmail.com">Email</a></h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=liquid" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&" alt="mughees-asif" />
 </p>
 
