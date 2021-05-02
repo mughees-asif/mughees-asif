@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=liquid" />
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
 <h1 align="center">⚡️ Hi, I'm Mughees Asif ⚡️</h1>
