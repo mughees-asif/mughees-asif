@@ -38,7 +38,7 @@
 - 🌏 Live in **London, UK** 
 - 🛠 Final-year undergraduate in **Aerospace Engineering** @ _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
 - 🔭 Latest project: **[code](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)** ➞ **[written evaluation](https://drive.google.com/file/d/1cvxC5QPPS9X9DEcnlZfgxMtREl2IGdMo/)**
-- 🧠 Currently learning: **C++**
+- 🧠 Currently learning: **TypeScript**
 - 🌱 Interested in: **[geometric deep learning](https://geometricdeeplearning.com/)**
 - 📖 Currently reading **[Frederick Douglass: Prophet of Freedom - David W. Blighty](https://www.amazon.co.uk/Frederick-Douglass-David-W-Blight/dp/1416590323/)**
 - 🎧 Listening to **[2Pac - Shorty Wanna Be A Thug](https://open.spotify.com/track/6O6jYPwFgoAtNg2LvZ6fNt?si=c1492945dc9440f1)**
