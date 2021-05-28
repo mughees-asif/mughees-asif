@@ -40,7 +40,7 @@
 - 🔭 Latest project: **[code](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)** ➞ **[written evaluation](https://drive.google.com/file/d/1cvxC5QPPS9X9DEcnlZfgxMtREl2IGdMo/)**
 - 🧠 Currently learning: **TypeScript**
 - 🌱 Interested in: **[geometric deep learning](https://geometricdeeplearning.com/)**
-- 📖 Currently reading **[Frederick Douglass: Prophet of Freedom - David W. Blighty](https://www.amazon.co.uk/Frederick-Douglass-David-W-Blight/dp/1416590323/)**
+- 📖 Currently reading: **[Frederick Douglass: Prophet of Freedom - David W. Blighty](https://www.amazon.co.uk/Frederick-Douglass-David-W-Blight/dp/1416590323/)**
 - 🎧 Listening to **[2Pac - Shorty Wanna Be A Thug](https://open.spotify.com/track/6O6jYPwFgoAtNg2LvZ6fNt?si=c1492945dc9440f1)**
 - 👓 Currently watching **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Qualified Personal Trainer (Level 3)**
