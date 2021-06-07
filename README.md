@@ -1,8 +1,4 @@
 <p align="center">
-  <img align="center" width="400" height="500" src="./drl.jpg" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=yellow&style=liquid" />
 </p>
 
