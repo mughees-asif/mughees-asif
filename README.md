@@ -31,7 +31,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 ---
 
-- 🌏 Live in **London, UK** 
+- 🌏 Lives in **London, UK** 
 - 👨‍💻 Software Engineer Intern @ **[Arm](https://www.arm.com/)**
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
 - 🧠 Currently learning: **TypeScript** & **SQL**
