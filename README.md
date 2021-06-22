@@ -36,13 +36,10 @@
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
 - 🧠 Learning: **TypeScript** & **SQL**
 - 📖 Reading: **[Frederick the Great: King of Prussia - Timothy C.W. Blanning](https://www.goodreads.com/book/show/25640992-frederick-the-great)**
-<<<<<<< HEAD
 - 🎧 Listening: **[Claude Debussy - Arabesque No. 1](https://www.youtube.com/watch?v=Ogx9LgSH-z4)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
-=======
 - 🎧 Listening to **[Claude Debussy - Arabesque No. 1](https://www.youtube.com/watch?v=Ogx9LgSH-z4)**
 - 👓 Watching **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
->>>>>>> b1c372080dc65de074b3bae4c673ab9426e28c95
 - ⚡ Fun fact: **Qualified Personal Trainer (Level 3)**
 
 > "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
