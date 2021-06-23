@@ -44,7 +44,7 @@
 
 </details> 
 
-<details>
+<details open>
 
 <summary>Biography</summary>  
 
