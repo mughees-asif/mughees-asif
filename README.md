@@ -34,7 +34,7 @@
 - 🌏 Lives in **London, UK** 
 - 👨‍💻 Software Engineer Intern @ **[Arm](https://www.arm.com/)**
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
-- 🧠 Learning: **TypeScript** & **SQL**
+- 🧠 Learning: **TypeScript** & **Jest** & **SQL**
 - 📖 Reading: **[Frederick the Great: King of Prussia - Timothy C.W. Blanning](https://www.goodreads.com/book/show/25640992-frederick-the-great)**
 - 🎧 Listening: **[Claude Debussy - Arabesque No. 1](https://www.youtube.com/watch?v=Ogx9LgSH-z4)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
