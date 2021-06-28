@@ -53,9 +53,9 @@
 - 👨‍💻 Software Engineer Intern @ **[Arm](https://www.arm.com/)**
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
 - 🧠 Learning: **TypeScript** & **SQL**
-- 📖 Reading: **[Thinking, Fast and Slow ~ Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)**
-- 🎧 Listening: **[Internal Flight ~ Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
-- 👓 Watching: **[Rope ~ Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
+- 📖 Reading: **[Thinking, Fast and Slow - Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)**
+- 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
+- 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Circuit Training)
 
 > "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
