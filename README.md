@@ -94,4 +94,4 @@
 </details>
   
 <!-- Activity graph -->
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=C8F000&point=00A14A&line=BAFF5E&custom_title=Commit%20activity&hide_border=false&area=true" alt="Krish's monthly coding activity" /></p>
+<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=green&point=00A14A&line=BAFF5E&custom_title=Commit%20activity&hide_border=false&area=true" alt="Krish's monthly coding activity" /></p>
