@@ -37,7 +37,7 @@
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
 - 🧠 Learning: **TypeScript** - **SQL**
 - 📖 Reading: **[Frederick the Great: King of Prussia - Timothy C.W. Blanning](https://www.goodreads.com/book/show/25640992-frederick-the-great)**
-- 🎧 Listening: **[Arabesque No. 1 - Claude Debussy](https://www.youtube.com/watch?v=Ogx9LgSH-z4)**
+- 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Qualified Personal Trainer (Level 3)**
 
