@@ -36,7 +36,7 @@
 - 👨‍💻 Software Engineer Intern @ **[Arm](https://www.arm.com/)**
 - 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ 
 - 🧠 Learning: **TypeScript** & **SQL**
-- 📖 Reading: **[Frederick the Great: King of Prussia ~ Timothy C.W. Blanning](https://www.goodreads.com/book/show/25640992-frederick-the-great)**
+- 📖 Reading: **[Thinking, Fast and Slow ~ Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)**
 - 🎧 Listening: **[Internal Flight ~ Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
 - 👓 Watching: **[Rope ~ Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialised in Circuit Training)
