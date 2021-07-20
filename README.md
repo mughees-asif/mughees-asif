@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">⚡️ Hi, I'm Mughees Asif ⚡️</h1>
-<h4 align="center"><a href="https://mughees.bio.link/">Calling Card</a></h4>
+<h4 align="center"><a href="https://mughees.bio.link/">https://mughees.bio.link/</a></h4>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&" alt="mughees-asif" />
