@@ -9,6 +9,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=tokyonight&ring=15f4ee&fire=15f4ee&" alt="mughees-asif" />
 </p>
 
+<details>
 ### Languages spoken
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
@@ -68,5 +69,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
 </a>
 
+</details>
+  
 <!-- Activity graph -->
 <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" /></p>
