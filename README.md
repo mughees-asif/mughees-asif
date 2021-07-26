@@ -6,7 +6,7 @@
 <h4 align="center"><a href="https://mughees.bio.link/">https://mughees.bio.link/</a></h4>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="mughees-asif" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=tokyonight&ring=15f4ee&fire=15f4ee&" alt="mughees-asif" />
 </p>
 
 ### Languages spoken
