@@ -11,7 +11,7 @@
 
 <details>
 
-<summary>**Overview**</summary>  
+<summary style="font-weight: bold">Overview</summary>  
   
 ### Languages spoken
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
