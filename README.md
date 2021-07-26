@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=purple&style=liquid" />
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=blue&style=liquid" />
 </p>
 
 <h1 align="center">⚡️ Hi, I'm Mughees Asif ⚡️</h1>
