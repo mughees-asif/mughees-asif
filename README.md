@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=blue&style=liquid" />
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
 <h4 align="center"><a href="https://mughees.bio.link/">Relevant Links</a></h4>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=tokyonight&ring=15f4ee&fire=15f4ee&" alt="mughees-asif" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=tokyonight&ring=15f4ee&fire=037d50&" alt="mughees-asif" />
 </p>
 
 <details>
@@ -94,4 +94,4 @@
 </details>
   
 <!-- Activity graph -->
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20activity&hide_border=false&area=true" alt="Krish's monthly coding activity" /></p>
+<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Mughees's monthly coding activity" /></p>
