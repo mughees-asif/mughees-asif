@@ -24,7 +24,7 @@
 
 <details>
 
-<summary>Stacks</summary>  
+<summary>Technology</summary>  
 
 ---
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
