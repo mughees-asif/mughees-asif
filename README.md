@@ -46,7 +46,7 @@
 
 <details>
 
-<summary>Biography</summary>  
+<summary open>Biography</summary>  
 
 ---
 - 🌏 Lives in **London, UK** 
@@ -66,7 +66,7 @@
 
 <details>
 
-<summary>Featured Repositories</summary>  
+<summary open>Featured Repositories</summary>  
 
 <a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
