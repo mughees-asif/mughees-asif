@@ -64,7 +64,7 @@
 
 </details>
 
-<details open>
+<details>
 
 <summary>Featured Repositories</summary>  
 
