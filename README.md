@@ -5,7 +5,7 @@
 <h4 align="center"><a href="https://mughees.bio.link/">Relevant Links</a></h4>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=merko" alt="mughees-asif" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=merko" alt="mughees-asif" />
 </p>
 
 <details>
