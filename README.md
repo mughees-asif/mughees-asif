@@ -56,7 +56,7 @@
 - 📖 Reading: **[How Innovation Works - Matt Ridley](https://www.goodreads.com/book/show/52219273-how-innovation-works)**
 - 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
-- ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Circuit Training)
+- ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Strength & Circuit Training)
 
 > "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
 
