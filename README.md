@@ -50,15 +50,15 @@
 
 ---
 - 🌏 Lives in **London, UK** 
-- 👨‍💻 Software Engineer Intern @ **[Arm](https://www.arm.com/)**
-- 🛠 **Aerospace Engineering** undergraduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
+- 👨‍💻 Reading MSc. Artificial Intelligence @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
+- 🛠 Recently completed **Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠 Learning: **TypeScript** & **SQL**
 - 📖 Reading: **[The God Delusion by Richard Dawkins](https://www.goodreads.com/book/show/14743.The_God_Delusion)**
 - 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Strength & Circuit Training)
 
-> "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." ― Alan Turing (1912-1954)
+> "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: it’s not that I loved Caesar less, but that I loved Rome more." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
 
 ---
 
