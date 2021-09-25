@@ -58,7 +58,7 @@
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Strength & Circuit Training)
 
-> "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: it’s not that I loved Caesar less, but that I loved Rome more." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
+> "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
 
 ---
 
