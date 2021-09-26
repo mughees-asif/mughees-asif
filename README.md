@@ -56,7 +56,7 @@
 - 📖 Reading: **[The God Delusion by Richard Dawkins](https://www.goodreads.com/book/show/14743.The_God_Delusion)**
 - 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
-- ⚡ Fun fact: **Qualified Level 3 Personal Trainer** (specialisation in Strength & Circuit Training)
+- ⚡ Fun fact: **Certified Level 3 Personal Trainer** (specialisation in Strength Training & HIIT)
 
 > "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
 
