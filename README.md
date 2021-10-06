@@ -52,7 +52,7 @@
 - 🌏 Lives in **London, UK** 
 - 👨‍💻 Reading **MSc. Artificial Intelligence** @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
 - 🛠 Recently completed **Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
-- 🧠 Learning: **TypeScript** & **SQL**
+- 🧠 Learning: **SQL**
 - 📖 Reading: **[The God Delusion by Richard Dawkins](https://www.goodreads.com/book/show/14743.The_God_Delusion)**
 - 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
