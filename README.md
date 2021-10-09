@@ -53,7 +53,7 @@
 - 👨‍💻 Reading **MSc. Artificial Intelligence** @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
 - 🛠 Recently completed **Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠 Learning: **SQL**
-- 📖 Reading: **[The God Delusion by Richard Dawkins](https://www.goodreads.com/book/show/14743.The_God_Delusion)**
+- 📖 Reading: **[Skunk Works: A Personal Memoir of My Years at Lockheed - Ben R. Rich & Leo Janos](https://www.goodreads.com/book/show/101438.Skunk_Works)**
 - 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Certified Level 3 Personal Trainer** (specialisation in Strength Training & HIIT)
