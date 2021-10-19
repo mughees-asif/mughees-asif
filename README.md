@@ -63,29 +63,6 @@
 ---
 
 </details>
-
-<details>
-
-<summary>Featured Repositories</summary>  
-
-<a href="https://github.com/mughees-asif/JavaFX-QMFS-TelemetrySystemGUI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=JavaFX-QMFS-TelemetrySystemGUI&theme=dark" />
-</a>
-
-<a href="https://github.com/mughees-asif/machinelearning-projects">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
-</a>
-  
-<a href="https://github.com/mughees-asif/matlab-qmul">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=matlab-qmul&theme=cobalt" />
-</a>
-  
-<a href="https://github.com/mughees-asif/android-kotlin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=android-kotlin&theme=gruvbox" />
-</a>
-
-
-</details>
   
 <!-- Activity graph -->
 <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Mughees's monthly coding activity" /></p>
