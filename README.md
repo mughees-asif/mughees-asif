@@ -80,10 +80,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=matlab-qmul&theme=cobalt" />
 </a>
 
-<a href="https://github.com/mughees-asif/dip">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=dip&theme=onedark" />
-</a>
-
 <a href="https://github.com/mughees-asif/machinelearning-projects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mughees-asif&repo=machinelearning-projects&theme=cobalt" />
 </a>
