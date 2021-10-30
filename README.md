@@ -54,7 +54,7 @@
 - 🛠 Recently completed **Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠 Learning: **SQL**
 - 📖 Reading: **[Skunk Works: A Personal Memoir of My Years at Lockheed - Ben R. Rich & Leo Janos](https://www.goodreads.com/book/show/101438.Skunk_Works)**
-- 🎧 Listening: **[Internal Flight - Estas Tonne](https://youtu.be/WGTxqhSN8bE)**
+- 🎧 Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
 - 👓 Watching: **[Rope - Alfred Hitchcock](https://en.wikipedia.org/wiki/Rope_(film))**
 - ⚡ Fun fact: **Certified Personal Trainer** (specialisation in Strength Training & HIIT)
 
