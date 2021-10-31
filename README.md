@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/signature.png" alt="mughees-asif" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
@@ -18,6 +22,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+
+<p align="center">
+  <img src="assets/java.png" alt="mughees-asif-java" />
+</p>
 ---
 
 </details> 
