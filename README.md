@@ -23,7 +23,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 
 <p align="center">
-  <img src="assets/java.png" alt="mughees-asif-java" />
+  <img src="assets/java.png" alt="mughees-asif-java-codingame" />
 </p>
 
 </details> 
