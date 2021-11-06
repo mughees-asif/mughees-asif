@@ -56,7 +56,7 @@
 - 👨‍💻 Reading **MSc. Artificial Intelligence** @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
 - 🛠 Recently completed **Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠 Learning: **SQL**
-- 📖 Reading: **[Raj: The Making and Unmaking of British India - Lawrence James](https://www.goodreads.com/book/photo/678699.Raj)**
+- 📖 Reading: **[Raj: The Making of British India - Lawrence James](https://www.goodreads.com/book/photo/678699.Raj)**
 - 🎧 Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
 - 👓 Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
 - ⚡ Fun fact: **Certified Personal Trainer** (specialisation in Strength Training & HIIT)
