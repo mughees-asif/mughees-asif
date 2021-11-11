@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/signature.png" alt="mughees-asif" width="500" />
+  <img src="assets/signature.png" alt="mughees-asif" width="400" />
 </p>
 
 <p align="center">
