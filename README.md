@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/superman.png" alt="mughees-asif" width="450" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
