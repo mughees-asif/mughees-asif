@@ -58,7 +58,7 @@
 - 👨‍💻 Reading **MSc. Artificial Intelligence** @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
 - 🛠 Recently completed **BEng. Aerospace Engineering (Hons.)** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠 Learning: **SQL** & **Decentralized Finance**
-- 📖 Reading: **[The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution - Walter Isaacson](https://www.goodreads.com/book/show/21856367-the-innovators)**
+- 📖 Reading: **[The Innovators - Walter Isaacson](https://www.goodreads.com/book/show/21856367-the-innovators)**
 - 🎧 Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
 - 👓 Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training & HIIT)
