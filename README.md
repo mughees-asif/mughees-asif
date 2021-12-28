@@ -56,9 +56,9 @@
 
 - 🌏 Lives in **London, UK** 
 - 👨‍💻 Reading **MSc. Artificial Intelligence** @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
-- 🛠 Recently completed **BEng. Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
+- 🛠 Completed **BEng. Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ in 2021
 - 🧠 Learning: **SQL** & **Decentralized Finance**
-- 📖 Reading: **[Blood and Oil: Mohammed bin Salman's Ruthless Quest for Global Power - Bradley Hope, Justin Scheck](https://www.goodreads.com/book/show/52038578-blood-and-oil)**
+- 📖 Reading: **[Why the Germans Do it Better: Notes from a Grown-Up Country - John Kampfner](https://www.goodreads.com/book/show/54443313-why-the-germans-do-it-better)**
 - 🎧 Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
 - 👓 Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training & HIIT)
