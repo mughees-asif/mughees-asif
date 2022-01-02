@@ -57,7 +57,7 @@
 - 🌏 Lives in **London, UK** 
 - 👨‍💻 Reading **MSc. Artificial Intelligence** @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
 - 🛠 Completed **BEng. Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ in 2021
-- 🧠 Learning: **SQL** & **Decentralized Finance**
+- 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖 Reading: **[Einstein: His Life and Universe - Walter Isaacson](https://www.goodreads.com/book/show/10884.Einstein)**
 - 🎧 Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
 - 👓 Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
