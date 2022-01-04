@@ -11,8 +11,38 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-asif&theme=merko" alt="mughees-asif" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mughees-asif&theme=solarized_dark" alt="mughees-asif" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mughees-asif&theme=solarized_dark" alt="mughees-asif" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mughees-asif&theme=solarized_dark" alt="mughees-asif" />
+</p>
+
+<details open>
+
+<summary>Biography</summary>  
+
+- 🌏 Lives in **London, UK**
+- 👨‍💻 Reading **MSc. Artificial Intelligence**
+  @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
+- 🛠 Completed **BEng. Aerospace Engineering**
+  from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
+  in 2021
+- 🧠 Learning: **Cryptocurrency** & **
+  Decentralized Finance**
+- 📖
+  Reading: **[Einstein: His Life and Universe - Walter Isaacson](https://www.goodreads.com/book/show/10884.Einstein)**
+- 🎧
+  Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
+- 👓
+  Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
+- ⚡ Fun fact: **Certified Personal Trainer** (
+  Specialisation in Strength Training & HIIT)
+
+> "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
+
+</details>
 
 <details>
 
@@ -50,22 +80,6 @@
 
 </details> 
 
-<details>
-
-<summary>Biography</summary>  
-
-- 🌏 Lives in **London, UK** 
-- 👨‍💻 Reading **MSc. Artificial Intelligence** @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
-- 🛠 Completed **BEng. Aerospace Engineering** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_ in 2021
-- 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
-- 📖 Reading: **[Einstein: His Life and Universe - Walter Isaacson](https://www.goodreads.com/book/show/10884.Einstein)**
-- 🎧 Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
-- 👓 Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
-- ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training & HIIT)
-
-> "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
-
-</details>
-  
 <!-- Activity graph -->
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Mughees's monthly coding activity" /></p>
+
+[comment]: <> (<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Mughees's monthly coding activity" /></p>)
