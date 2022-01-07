@@ -32,7 +32,7 @@
 - 🧠 Learning: **Cryptocurrency** & **
   Decentralized Finance**
 - 📖
-  Reading: **[Einstein: His Life and Universe - Walter Isaacson](https://www.goodreads.com/book/show/10884.Einstein)**
+  Reading: **[Titan: The Life of John D. Rockefeller, Sr. - Ron Chernow](https://www.goodreads.com/book/show/16121.Titan)**
 - 🎧
   Listening: **[The Godfather Waltz - Henry Mancini](https://youtu.be/7G9pTbBerB0)**
 - 👓
