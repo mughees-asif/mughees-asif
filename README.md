@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/superman.png" alt="mughees-asif" width="225" />
+  <img src="assets/superman.png" alt="mughees-asif" width="200" />
 </p>
 
 <p align="center">
