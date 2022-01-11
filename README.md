@@ -29,7 +29,7 @@
 - 🛠 Completed **BEng. Aerospace Engineering**
   from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
   in 2021
-- 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
+- 🧠 Learning about: **Cryptocurrency** & **Decentralized Finance**
 - 📖
   Reading: **[Titan: The Life of John D. Rockefeller, Sr. - Ron Chernow](https://www.goodreads.com/book/show/16121.Titan)**
 - 🎧
