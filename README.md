@@ -31,7 +31,7 @@
   in 2021
 - 🧠 Learning about: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[Titan: The Life of John D. Rockefeller, Sr. - Ron Chernow](https://www.goodreads.com/book/show/16121.Titan)**
+  Reading: **[Titan: The Life of John D. Rockefeller, Sr. - Ron Chernow](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
   Listening: **[Barrington Levy - Black Roses](https://youtu.be/OdhEAl_sI1A)**
 - 👓
