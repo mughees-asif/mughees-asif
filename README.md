@@ -33,7 +33,7 @@
 - 📖
   Reading: **[Chavs: The Demonization of the Working Class - Owen Jones](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
-  Listening: **[Barrington Levy - Black Roses](https://youtu.be/OdhEAl_sI1A)**
+  Listening: **[Black Roses - Barrington Levy](https://youtu.be/OdhEAl_sI1A)**
 - 👓
   Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training & HIIT)
