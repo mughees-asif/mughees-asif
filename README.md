@@ -31,7 +31,7 @@
   in 2021
 - 🧠 Learning about: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[Chavs: The Demonization of the Working Class - Owen Jones](https://www.goodreads.com/user/show/138317498-mughees)**
+  Reading: **[A Promised Land - Barack Obama](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
   Listening: **[Black Roses - Barrington Levy](https://youtu.be/OdhEAl_sI1A)**
 - 👓
