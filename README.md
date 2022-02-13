@@ -26,9 +26,8 @@
 - 🌏 Lives in **London, UK**
 - 👨‍💻 Reading **MSc. Artificial Intelligence**
   @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
-- 🛠 Completed **BEng. Aerospace Engineering (Hons.)**
+- 🛠 **BEng. Aerospace Engineering (Hons.)**
   from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
-  in 2021
 - 🧠 Learning about: **Cryptocurrency** & **Decentralized Finance**
 - 📖
   Reading: **[A Promised Land - Barack Obama](https://www.goodreads.com/user/show/138317498-mughees)**
