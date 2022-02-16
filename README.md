@@ -26,7 +26,7 @@
 - 🌏 Lives in **London, UK**
 - 👨‍💻 Reading **MSc. Artificial Intelligence**
   @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
-- 🛠 **BEng. Aerospace Engineering (Hons.)**
+- 🛠 **BEng. Aerospace Engineering (Hons.)** [First-class]
   from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠 Learning about: **Cryptocurrency** & **Decentralized Finance**
 - 📖
