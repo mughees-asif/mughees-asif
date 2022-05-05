@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/signature.png" alt="mughees-asif" width="250" />
+  <img src="assets/signature.png" alt="mughees-asif" width="225" />
 </p>
 
 <p align="center">
-  <img src="assets/superman.png" alt="mughees-asif" width="255" />
+  <img src="assets/superman.png" alt="mughees-asif" width="250" />
 </p>
 
 <p align="center">
