@@ -29,7 +29,7 @@
 - 🛠 **BEng. Aerospace Engineering (Hons.)** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠 Learning about: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[Islam: A Short History - Karen Armstrong](https://www.goodreads.com/user/show/138317498-mughees)**
+  Reading: **[Snake Oil: How Xi Jinping Shut Down the World - Michael P. Senger](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
   Listening: **[Black Roses - Barrington Levy](https://youtu.be/OdhEAl_sI1A)**
 - 👓
