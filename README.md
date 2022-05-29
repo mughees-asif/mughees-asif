@@ -25,7 +25,7 @@
 
 - 🌏 Lives in **London, UK**
 - 👨‍💻 Software Engineer (SDE-I) @ **[Amazon](https://www.amazon.jobs/en-gb/job_categories/software-development)**
-- 🛠 Read **MSc. Artificial Intelligence** & **BEng. Aerospace Engineering (Hons.)** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
+- 🛠 Read **MSc. Artificial Intelligence** & **BEng. Aerospace Engineering (Hons.)** from **[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
   Reading: **[The Dead Are Arising: The Life of Malcolm X - Les Payne, Tamara Payne](https://www.goodreads.com/user/show/138317498-mughees)**
