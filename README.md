@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/signature.png" alt="mughees-asif" width="225" />
+  <img src="assets/signature.png" alt="mughees-asif" width="250" />
 </p>
 
 <p align="center">
@@ -24,10 +24,9 @@
 <summary>Biography</summary>  
 
 - 🌏 Lives in **London, UK**
-- 👨‍💻 Read **MSc. Artificial Intelligence**
-  @ _[School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/)_
-- 🛠 **BEng. Aerospace Engineering (Hons.)** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
-- 🧠 Learning about: **Cryptocurrency** & **Decentralized Finance**
+- 👨‍💻 Software Engineer (SDE-I) @ **[Amazon](https://www.amazon.jobs/en-gb/job_categories/software-development)**
+- 🛠 Read **MSc. Artificial Intelligence** & **BEng. Aerospace Engineering (Hons.)** from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
+- 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
   Reading: **[The Dead Are Arising: The Life of Malcolm X - Les Payne, Tamara Payne](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
