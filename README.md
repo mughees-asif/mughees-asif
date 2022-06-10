@@ -28,7 +28,7 @@
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[The Nine Lives of Pakistan: Dispatches from a Precarious State - Declan Walsh](https://www.goodreads.com/user/show/138317498-mughees)**
+  Reading: **[Napoleon: A Life - Andrew Roberts](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
   Listening: **[Black Roses - Barrington Levy](https://youtu.be/OdhEAl_sI1A)**
 - 👓
