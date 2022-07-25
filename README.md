@@ -30,9 +30,9 @@
 - 📖
   Reading: **[Inglorious Empire: What the British Did to India - Shashi Tharoor](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
-  Listening: **[Black Roses - Barrington Levy](https://youtu.be/OdhEAl_sI1A)**
+  Listening: **[So Many Tears - 2Pac](https://youtu.be/PIvjfEy4Dk4)**
 - 👓
-  Watching: **[Carlito's Way - Brian De Palma](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
+  Watching: **[Reservoir Dogs - Quentin Tarantino](https://en.wikipedia.org/wiki/Carlito%27s_Way)**
 - ♟ Plays: `e4`
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 
