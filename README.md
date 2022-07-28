@@ -28,7 +28,8 @@
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[Inglorious Empire: What the British Did to India - Shashi Tharoor](https://www.goodreads.com/user/show/138317498-mughees)**
+  Reading: **[
+Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
   Listening: **[So Many Tears - 2Pac](https://youtu.be/PIvjfEy4Dk4)**
 - 👓
