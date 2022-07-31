@@ -31,7 +31,7 @@
   Reading: **[
 Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
-  Listening: **[So Many Tears - 2Pac](https://youtu.be/PIvjfEy4Dk4)**
+  Listening: **[War Pigs - Black Sabbath](https://youtu.be/PrZFscfJxXc)**
 - 👓
   Watching: **[Reservoir Dogs - Quentin Tarantino](https://youtu.be/xerx80SWgkA)**
 - ♟ Plays: `e4`
