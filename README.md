@@ -19,7 +19,7 @@
 <summary>Biography</summary>  
 
 - 🌏 Lives in **London, UK**
-- 👨‍💻 Software Engineer @ **[Amazon](https://www.amazon.jobs/en-gb/job_categories/software-development)** based within the Alexa team.
+- 👨‍💻 Software Engineer @ **[Amazon](https://www.amazon.jobs/en-gb/job_categories/software-development)** based within the Alexa AI team
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
