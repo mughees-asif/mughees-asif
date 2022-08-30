@@ -10,11 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
-
-<p align="center">
-  <img src="assets/me1.gif" alt="mughees-asif" width="200" />
-</p>
-
 <details open>
 
 <summary>Biography</summary>  
@@ -32,6 +27,12 @@
 - ♟ Plays: `e4`
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 - 👴 Retirement plan: Study **Art History** in _Florence_, Italy.
+
+
+<p align="center">
+  <img src="assets/me1.gif" alt="mughees-asif" width="200" />
+</p>
+
 
 > "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
 
