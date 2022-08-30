@@ -10,8 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mughees-asif&theme=solarized_dark" alt="mughees-asif" />
+  <img src="assets/me1.gif" alt="mughees-asif" width="200" />
 </p>
 
 <details open>
