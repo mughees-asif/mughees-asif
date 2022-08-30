@@ -14,6 +14,10 @@
 
 <summary>Biography</summary>  
 
+<p align="center">
+  <img src="assets/me1.gif" alt="mughees-asif" width="200" />
+</p>
+
 - 🌏 Lives in **London, UK**
 - 👨‍💻 Software Engineer @ **[Amazon](https://www.amazon.jobs/en-gb/job_categories/software-development)** based within the Alexa AI team
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)**
@@ -27,12 +31,6 @@
 - ♟ Plays: `e4`
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 - 👴 Retirement plan: Study **Art History** in _Florence_, Italy.
-
-
-<p align="center">
-  <img src="assets/me1.gif" alt="mughees-asif" width="200" />
-</p>
-
 
 > "If there’s anyone in this assembly, any dear friend of Caesar’s, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: **it’s not that I loved Caesar less, but that I loved Rome more**." ― Julius Caesar by Shakespeare (Act 3, Scene 2)
 
