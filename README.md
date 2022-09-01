@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
-<details open>
+<details>
 
 <summary>Biography</summary>  
 
