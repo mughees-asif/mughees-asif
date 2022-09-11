@@ -15,7 +15,7 @@
 <summary>Biography</summary>  
 
 <p align="center">
-  <img src="assets/me1.gif" alt="mughees-asif" width="225" />
+  <img src="assets/me1.gif" alt="mughees-asif" width="200" />
 </p>
 
 - 🌏 Lives in **London, UK**
