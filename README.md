@@ -20,7 +20,7 @@
 
 - 🌏 Lives in **London, UK**
 - 👨‍💻 Software Engineer @ **[Amazon Alexa AI](https://www.amazon.jobs/en-gb/job_categories/software-development)**
-- 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)**
+- 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
   Reading: **[Churchill: Walking with Destiny - Andrew Roberts](https://www.goodreads.com/user/show/138317498-mughees)**
