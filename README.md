@@ -23,7 +23,7 @@
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[Arguing with Zombies: Economics, Politics, and the Fight for a Better Future - Paul Krugman](https://www.goodreads.com/user/show/138317498-mughees)**
+  Reading: **[War and Peace - Leo Tolstoy](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
   Listening: **[War Pigs - Black Sabbath](https://youtu.be/PrZFscfJxXc)**
 - 👓
