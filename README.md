@@ -25,9 +25,9 @@
 - 📖
   Reading: **[War and Peace - Leo Tolstoy](https://www.goodreads.com/user/show/138317498-mughees)**
 - 🎧
-  Listening: **[War Pigs - Black Sabbath](https://youtu.be/PrZFscfJxXc)**
+  Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
 - 👓
-  Watching: **[Reservoir Dogs - Quentin Tarantino](https://youtu.be/xerx80SWgkA)**
+  Watching: **[Full Metal Jacket - Stanley Kubrick](https://youtu.be/n2i917l5RFc)**
 - ♟ Plays: `e4`
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 - 👴 Retirement plan: Study **Art History** in _Florence_, Italy.
