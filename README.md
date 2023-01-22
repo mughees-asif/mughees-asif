@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
-<h2  align="center">VIEW IN LIGHT MODE 💡</h2>
+<h2  align="center">💡 VIEW IN LIGHT MODE 💡</h2>
 
 <details>
 
