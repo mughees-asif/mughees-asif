@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  ### VIEW IN LIGHT MODE 💡
+  <h2>VIEW IN LIGHT MODE 💡</h2>
 </p>
 
 <details>
