@@ -73,7 +73,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 
 <p align="center">
-  <img src="assets/AWS Certified Cloud Practitioner certificate.pdf" alt="mughees-asif" width="200" />
+  <img src="assets/aws-cert-ccp.png" alt="mughees-asif-aws" width="200" />
 </p>
 
 </details> 
