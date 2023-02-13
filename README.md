@@ -72,6 +72,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 
+<p align="center">
+  <img src="assets/AWS Certified Cloud Practitioner certificate.pdf" alt="mughees-asif" width="200" />
+</p>
+
 </details> 
 
 <!-- Activity graph -->
