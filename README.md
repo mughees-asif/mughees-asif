@@ -25,7 +25,7 @@
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[War and Peace - Leo Tolstoy](https://www.goodreads.com/user/show/138317498-mughees)**
+  Reading: **[Cuba: An American History - Ada Ferrer](https://www.goodreads.com/en/book/show/55710558)**
 - 🎧
   Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
 - 👓
