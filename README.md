@@ -29,7 +29,7 @@
 - 🎧
   Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
 - 👓
-  Watching: **[Full Metal Jacket - Stanley Kubrick](https://youtu.be/n2i917l5RFc)**
+  Watching: **[I am the danger - Breaking Bad](https://youtu.be/31Voz1H40zI)**
 - ♟ Plays: `e4`
 - ⚡ Fun fact: **Certified Personal Trainer** (Specialisation in Strength Training, Kettlebell Training, and High-Intensity Interval Training (HIIT))
 - 👴 Retirement plan: Study **Art History** in _Florence_, Italy.
