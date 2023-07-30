@@ -25,7 +25,7 @@
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[Deng Xiaoping and the Transformation of China - Ezra Vogel](https://www.goodreads.com/en/book/show/55710558)**
+  Reading: **[How Britain Really Works: Understanding the Ideas and Institutions of a Nation - Stig Abell](https://www.goodreads.com/en/book/show/55710558)**
 - 🎧
   Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
 - 👓
