@@ -10,6 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=green&style=liquid" />
 </p>
 
+<div align="center">
+  <h1>
+    <a href="https://www.chessgames.com/perl/chessgame?gid=1255117">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7293D&width=435&lines=e4+e5%2C+f4+f6%2C+fxe5+Nc6%2C+d4+Be7%2C+;exf6+gxf6%2C+Qh5%2B+Kf8%2C+Bc4+Qe8%2C;+Bh6%2B+1-0++" alt="Robert James Fischer vs J Jones" />
+    </a>
+  </h1>
+</div> 
+
 <h2  align="center">💡 VIEW IN LIGHT MODE 💡</h2>
 
 <details>
