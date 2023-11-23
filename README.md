@@ -33,7 +33,7 @@
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
 - 📖
-  Reading: **[How Britain Really Works: Understanding the Ideas and Institutions of a Nation - Stig Abell](https://www.goodreads.com/user/show/138317498-mughees-asif)**
+  Reading: **[Taking a break](https://www.goodreads.com/user/show/138317498-mughees-asif)**
 - 🎧
   Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
 - 👓
