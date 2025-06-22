@@ -29,12 +29,11 @@
 </p>
 
 - 🌏 Lives in **London, UK**
-- 👨‍💻 Software Engineer @ **[Amazon AI](https://www.amazon.jobs/en-gb/job_categories/software-development)**
+- 👨‍💻 Software Engineer II @ **[Amazon AI](https://www.amazon.jobs/en-gb/job_categories/software-development)**
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
-- 🧠 Learning: **Cryptocurrency** & **Decentralized Finance**
+- 🧠 Learning: **Distributed Streaming Technology**
 - 📖
-  Reading: **[Churchill: Walking with Destiny
-by Andrew Roberts](https://www.goodreads.com/user/show/138317498-mughees-asif)**
+  Reading: **[The Silk Roads: A New History of the World - Peter Frankopan](https://www.goodreads.com/user/show/138317498-mughees-asif)**
 - 🎧
   Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
 - 👓
