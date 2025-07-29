@@ -33,7 +33,7 @@
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Distributed Streaming Technology**
 - 📖
-  Reading: **[The Silk Roads: A New History of the World - Peter Frankopan](https://www.goodreads.com/user/show/138317498-mughees-asif)**
+  Reading: **[The Algebra of Wealth: A Simple Formula for Financial Security - Scott Galloway](https://www.goodreads.com/user/show/138317498-mughees-asif)**
 - 🎧
   Listening: **[So Many Tears - 2Pac](https://youtu.be/pFNDh4smb6k)**
 - 👓
