@@ -31,7 +31,7 @@
 - 🌏 Lives in **London, UK**
 - 👨‍💻 Software Engineer II @ **[Amazon AI](https://www.amazon.jobs/en-gb/job_categories/software-development)**
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
-- 🧠 Learning: **Distributed Streaming Technology**
+- 🧠 Learning: **Agentic AI Workflows**
 - 📖
   Reading: **[Goodreads](https://www.goodreads.com/user/show/138317498-mughees-asif)**
 - 🎧
