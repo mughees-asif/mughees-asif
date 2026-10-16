@@ -28,7 +28,7 @@
   <img src="assets/me1.gif" alt="mughees-asif" width="200" />
 </p>
 
-- 🌏 Lives in **London, UK**
+- 🌏 Lives in **Dubai, UAE**
 - 👨‍💻 Software Engineer at **Revolut**
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Agentic AI Workflows**
