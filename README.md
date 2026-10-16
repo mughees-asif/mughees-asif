@@ -29,7 +29,7 @@
 </p>
 
 - 🌏 Lives in **London, UK**
-- 👨‍💻 Software Engineer II @ **[Amazon AI](https://www.amazon.jobs/en-gb/job_categories/software-development)**
+- 👨‍💻 Software Engineer at **Revolut**
 - 🛠 Read **MSc. Artificial Intelligence** ('22) & **BEng. Aerospace Engineering (Hons.)** ('21) from **[Queen Mary, University of London](https://www.qmul.ac.uk/)**
 - 🧠 Learning: **Agentic AI Workflows**
 - 📖
